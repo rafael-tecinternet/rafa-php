@@ -35,3 +35,12 @@ $aluno = "Rafael";
 echo $aluno;
 ```
 ## Imagens
+![Logotipo PHP](php-logo.png)
+
+## Caixas de seleção
+
+### Lista de tarefas
+
+- [] Briefing
+- [] Rascunhos
+- [] Desing
