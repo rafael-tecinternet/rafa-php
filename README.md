@@ -1,2 +1,2 @@
 # rafa-php
- Atividades desenvolvidas nas aulas de PHP
+Exemplos e exercícios desenvolvidas nas aulas de PHP
